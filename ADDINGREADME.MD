@@ -1,2 +1,2 @@
 # foldy
-this is a deno
+this is a demo
